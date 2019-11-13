@@ -1,0 +1,11 @@
+https://www.infor.uva.es/~calonso/IAI/PracticasProlog/Tema6/
+
+Tema%206.%20Operadores%20en%20PROLOG.pdf
+
+http://www.cs.ubbcluj.ro/~csatol/log_funk/prolog/slides/1-basics.pdf
+
+https://github.com/sunilnandihalli/99-problems-in-prolog/blob/master/p93.pl
+
+http://www.cse.unsw.edu.au/~billw/prologdict.html
+
+https://www.scss.tcd.ie/~dwoods/1617/CS1LL2/HT/wk8/lec8.pdf
